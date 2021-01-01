@@ -16,3 +16,4 @@ function equalityCheck (number){   // Creating a function
 }
 
 console.log (equalityCheck(number)) // Loging on to the console 
+console.log(number)
